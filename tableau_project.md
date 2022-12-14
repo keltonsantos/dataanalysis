@@ -8,7 +8,7 @@
 - What are the top math schools in the state?
 - What schools are struggling he most?
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. The Data
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -18,7 +18,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Analysis
 
 ```javascript
 if (isAwesome){
@@ -26,7 +26,7 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Conclusion
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
