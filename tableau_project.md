@@ -1,6 +1,12 @@
-## This can be your internal website page / project page
+# Massachusetts School Project with Tableau
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Project description:** For this project, we used *TABLEAU* to analyse education data of the state of Massachusetts, and answer the following questions:
+
+- A report to show the school board the state of the school system;
+- How does class size affect college admission?
+- What are the top math schools in the state?
+- What schools are struggling he most?
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
