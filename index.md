@@ -9,8 +9,8 @@
 
 - - -
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true">
+[Massachusetts School Project - Tableau](/sample_project.md)
+[<img src="images/projects/Mass_tableau/school.png?raw=true">](/sample_project.md)
 
 - - -
 
