@@ -10,17 +10,17 @@ For this project I used *TABLEAU* to analyse education data of the state of Mass
 
 To adress these questions, I used [Tableau Public](https://public.tableau.com/app/discover) to analyse and visualize the data. During the project I used the following tableau features:
 
-✅ Connecting to Data
-✅ Creating a bar chart
-✅ Adding color
-✅ Creating a scatter plot
-✅ Adding size
-✅ Adding label
-✅ Adding tooltip
-✅ Creating pie chart
-✅ Creating line chart
-✅ BAN / KPI / Metric
-✅ Reference Line
+- ✅ Connecting to Data
+- ✅ Creating a bar chart
+- ✅ Adding color
+- ✅ Creating a scatter plot
+- ✅ Adding size
+- ✅ Adding label
+- ✅ Adding tooltip
+- ✅ Creating pie chart
+- ✅ Creating line chart
+- ✅ BAN / KPI / Metric
+- ✅ Reference Line
 
 ## Analyses
 
