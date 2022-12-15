@@ -1,37 +1,49 @@
 # Massachusetts School Project with Tableau
 
+## Project description
 
-**Project description:** For this project, we used *TABLEAU* to analyse education data of the state of Massachusetts, and answer the following questions:
+For this project I used *TABLEAU* to analyse education data of the state of Massachusetts, build a report to show the school board the state of the school system and answer the following questions:
 
-- A report to show the school board the state of the school system;
-- How does class size affect college admission?
-- What are the top math schools in the state?
-- What schools are struggling he most?
+* What schools are struggling he most?
+* What are the top math schools in the state?
+* How does class size affect college admission?
 
-### 1. The Data
+To adress these questions, I used [Tableau Public](https://public.tableau.com/app/discover) to analyse and visualize the data. During the project I used the following tableau features:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+✅ Connecting to Data
+✅ Creating a bar chart
+✅ Adding color
+✅ Creating a scatter plot
+✅ Adding size
+✅ Adding label
+✅ Adding tooltip
+✅ Creating pie chart
+✅ Creating line chart
+✅ BAN / KPI / Metric
+✅ Reference Line
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+## Analyses
 
-### 2. Analysis
+We upload our csv file to tableau public to analyse and visualize the data and address the questions to present to the board of the school.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/projects/Mass_tableau/dataset.PNG?raw=true">
 
-### 3. Conclusion
+### 1\. What schools are struggling he most?
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+To answer this question we built a bar chart to find out the bottom 10 schools with the lowest graduation rate. We created a bar chart where the graduation percentages are displayed for each school.
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="images/projects/Mass_tableau/barchart.PNG?raw=true">
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 2\. What are the top math schools in the state?
+
+### 3\. What are the top math schools in the state?
+
+## Conclusion
+
+<img src="images/dummy_thumbnail.jpg?raw=true">
+
+
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
