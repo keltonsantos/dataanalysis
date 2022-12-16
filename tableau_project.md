@@ -26,7 +26,7 @@ To adress these questions, I used [Tableau Public](https://public.tableau.com/ap
 
 We upload our csv file to tableau public to analyse and visualize the data and address the questions to present to the board of the school.
 
-<img src="images/projects/Mass_tableau/dataset.PNG?raw=true">
+<img src="images/projects/Mass_tableau/data.PNG?raw=true">
 
 ### 1\. What schools are struggling he most?
 
