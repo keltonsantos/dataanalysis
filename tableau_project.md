@@ -1,6 +1,6 @@
-# Massachusetts School Project with Tableau
+# Massachusetts School Project with Tableau :school:
 
-## Project description
+### Project description
 
 For this project we used *TABLEAU* to analyze education data of the state of Massachusetts, build a report to show the school board the state of the school system and answer the following questions:
 
