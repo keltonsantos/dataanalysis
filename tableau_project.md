@@ -10,7 +10,7 @@ For this project we used *TABLEAU* to analyse education data of the state of Mas
 
 To adress these questions, we used [Tableau Public](https://public.tableau.com/app/discover) to analyse and visualize the data. During the project we used the following tableau features:
 
--  Connecting to Data
+-  Connecting to Data;
 -  Creating a bar chart
 -  Adding color
 -  Creating a scatter plot
