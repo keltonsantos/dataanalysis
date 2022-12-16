@@ -32,7 +32,7 @@ We upload our csv file to tableau public to analyse and visualize the data and a
 
 To answer this question we built a bar chart to find out the bottom 10 schools with the lowest graduation rate. We created a bar chart where the graduation percentages are displayed for each school.
 
-<img src="images/projects/Mass_tableau/barchart.PNG?raw=true">
+<img src="images/projects/Mass_tableau/bar_chart.PNG?raw=true">
 
 ### 2\. What are the top math schools in the state?
 
