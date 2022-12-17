@@ -1,14 +1,16 @@
-# Massachusetts School Project with Tableau
+# Massachusetts School Project with Tableau 🏫 📚
 
-### Project description
+### 📊 Project description
 
-For this project we used *TABLEAU* to analyze education data of the state of Massachusetts, build a report to show the school board the state of the school system and answer the following questions:
+* This project is part of the [**Data Analytics Accelarator Bootcamp**](https://www.datacareerjumpstart.com/) by [**Avery Simth**](https://www.linkedin.com/in/averyjsmith/). 
 
-* What schools are struggling the most? :school:
-* What are the top math schools in the state? :books:
-* How does class size affect college admission?
+For this project we used **TABLEAU** to analyze education data of the State of Massachusetts, build a report to show the school board the state of the school system and answer the following questions:
 
-To address these questions, we used [Tableau Public](https://public.tableau.com/app/discover) to analyze and visualize the data. During the project we used the following tableau features:
+* What schools are struggling the most?
+* What are the top math schools in the state?
+* How does *class size* affect college admission?
+
+To address these questions, we used [**Tableau Public**](https://public.tableau.com/app/discover) to analyze and visualize the data. During the project we used the following tableau features:
 
 * Connecting to Data
 * Creating a bar chart
@@ -22,15 +24,17 @@ To address these questions, we used [Tableau Public](https://public.tableau.com/
 * BAN / KPI / Metric
 * Reference Line
 
-## Analyses
+<img src="images/projects/Mass_tableau/tableau_public.PNG?raw=true">
 
-We upload our csv file to tableau public to analyze and visualize the data and address the questions to present to the board of the school.
+## 📈 Analyses
+
+We connected our csv file to tableau public to analyze and visualize the data and address the questions to present to the board of the school.
 
 <img src="images/projects/Mass_tableau/data.PNG?raw=true">
 
 ### 1\. What schools are struggling he most?
 
-To answer this question, we built a bar chart to find out the bottom 10 schools with the lowest graduation rate. We created a bar chart where the graduation percentages are displayed for each school. In the **bar chart** below, we can see the schools that are struggling the most.
+To answer this question, we built a **bar chart** to find out the bottom 10 schools with the lowest graduation rate. We created a bar chart where the graduation percentages were displayed for each school. In the **bar chart** below, we can see the schools that are struggling the most.
 
 <img src="images/projects/Mass_tableau/bar_chart.PNG?raw=true">
 
@@ -55,13 +59,13 @@ Plotting the scatter plot of "Average Class Size" and "% Attending College", we 
 
 <img src="images/projects/Mass_tableau/scatter.PNG?raw=true">
 
-## Conclusion
+## 📓 Conclusion
 
 The State of Massachusetts has 1,861 schools and 953,859 students;
 Four schools passed the 4th grade math threshold set by the board school;
-The average class size is 18 students;
+The average class size is 18 students per class;
 There is no strong correlation between class size and class attendance.
 
 <img src="images/projects/Mass_tableau/dashboard.PNG?raw=true">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Thank you for reading, if you have any feedback feel free to conect with on [LinkdIn](https://www.linkedin.com/in/kelton-garcia-santos-a75060b3/)
