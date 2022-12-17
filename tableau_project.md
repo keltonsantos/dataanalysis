@@ -1,4 +1,4 @@
-# Massachusetts School Project with Tableau 🏫 📚
+# Massachusetts Schools Project with Tableau 🏫 📚
 
 ### 📊 Project description
 

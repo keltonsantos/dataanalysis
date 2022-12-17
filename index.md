@@ -9,7 +9,7 @@
 
 - - -
 
-[Massachusetts School Project - Tableau](/tableau_project.md)
+[Massachusetts Schools Project - Tableau](/tableau_project.md)
 [<img src="images/projects/Mass_tableau/school.PNG?raw=true">](/tableau_project.md)
 
 - - --
