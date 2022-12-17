@@ -2,7 +2,7 @@
 
 ### 📊 Project description
 
-* This project is part of the [**Data Analytics Accelarator Bootcamp**](https://www.datacareerjumpstart.com/) by [**Avery Simth**](https://www.linkedin.com/in/averyjsmith/). 
+ This project is part of the [**Data Analytics Accelarator Bootcamp**](https://www.datacareerjumpstart.com/) by [**Avery Simth**](https://www.linkedin.com/in/averyjsmith/).
 
 For this project we used **TABLEAU** to analyze education data of the State of Massachusetts, build a report to show the school board the state of the school system and answer the following questions:
 
