@@ -24,6 +24,11 @@ In this project I will analyze the loans and credit of IDA-World Bank Program, a
 [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/tableau_project_html.html) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
 
+For this Project used **TABLEAU** to analyze education data of the State of Massachusetts and built a report to  answer the following questions:
+- What schools are struggling the most?
+- What are the top math schools in the state?
+- How does class size affect college admission?
+
 [<img src="projects/images/projects/Mass_tableau/dashboard.PNG?raw=true">](projects/tableau_project.md)
 
 - - -
