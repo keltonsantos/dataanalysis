@@ -1,5 +1,7 @@
 # IDA (World Bank) Statement of Credit and Grants - Cape Verde
 
+<img src="images/projects/world_bank/Dashboard.png?raw=true">
+
 ### 📊 Project description
 
 This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Simth](https://www.linkedin.com/in/averyjsmith/).
