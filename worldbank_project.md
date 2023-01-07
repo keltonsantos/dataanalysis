@@ -70,6 +70,8 @@ SELECT *
 FROM "IDA_Finance" 
 WHERE "country" = ('Cabo Verde', 'Cape Verde');
 ```
+As of November 2022, Cape Verde owes 458 Million USD to the World bank.
 
+<img src="images/projects/world_bank/cv_debt.png?raw=true">
 
 Thank you for reading, if you have any feedback feel free to conect with on [LinkdIn](https://www.linkedin.com/in/kelton-garcia-santos-a75060b3/)
