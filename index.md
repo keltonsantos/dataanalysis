@@ -4,6 +4,7 @@
 
 - - -
 ### 👉 [IDA/World Bank - Loans to Cape Verde Project with SQL + Tableau](projects/worldbank_project.md)
+- Link to my project on [Tableau Public](https://public.tableau.com/authoring/IDA_Loasn_Global/Dashboard1#1)
 
 [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/worldbank_project_html.html) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
