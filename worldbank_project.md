@@ -61,40 +61,13 @@ India, Bangladesh,and Pakistan are the Top 3 debtors, and all the Top 10 countri
 
 <img src="images/projects/world_bank/map.PNG?raw=true">
 
-### 1\. What schools are struggling he most?
+### How much does Cape Verde owe to IDA?
 
-To answer this question, we built a **bar chart** to find out the bottom 10 schools with the lowest graduation rate. We created a bar chart where the graduation percentages were displayed for each school. In the **bar chart** below, we can see the schools that are struggling the most.
+First I filtered the data only for "Cape Verde" and "Cabo Verde" (they are the same country) using the following query:
 
-<img src="images/projects/Mass_tableau/bar_chart.PNG?raw=true">
+``` sql
+SELECT * FROM "IDA_Finance" WHERE "country" = ('Cabo Verde', 'Cape Verde');
+```
 
-### 2\. What are the top math schools in the state?
-
-The school board wanted to find out what the top math school was in the state. They believed that 4th grade math is key to a student's feature and would like to focus on improving the state's MCAS 4thGrade Math passing grade. They wanted to know which districts were above the desired threshold of 50% and would like to collect the names of these districts to invite some of these teachers to train the rest of the state on how they improve math scores.
-
-By plotting the percentage of "MCAS 4th Grade Math", and setting a threshold of 50% we got the top math schools.
-
-* Community Day Charter Public School — R. Kingman Webster (District)
-* Community Day Charter Public School — Prospect (District)
-* Community Day Charter Public School — Gateway (District)
-* Orleans
-
-<img src="images/projects/Mass_tableau/math.PNG?raw=true">
-
-### 3\. How does class size affect college admission?
-
-The school board is wondering how college attendance would be increased. They're considering investing in building more schools in the aim of lowering the average class size to hopefully increase the % attending college.
-
-Plotting the scatter plot of "Average Class Size" and "% Attending College", we found an R-squared of 0.19, which means that keeping all other variables constants, "Class Size" only explains 19% of variability of "College Attendance". An R-squared of 19% is too small to conclude that there is casual relationship between "Average Class Size" and "% Attending College".
-
-<img src="images/projects/Mass_tableau/scatter.PNG?raw=true">
-
-## 📓 Conclusion
-
-The State of Massachusetts has 1,861 schools and 953,859 students;
-Four schools passed the 4th grade math threshold set by the board school;
-The average class size is 18 students per class;
-There is no strong correlation between class size and class attendance.
-
-<img src="images/projects/Mass_tableau/dashboard.PNG?raw=true">
 
 Thank you for reading, if you have any feedback feel free to conect with on [LinkdIn](https://www.linkedin.com/in/kelton-garcia-santos-a75060b3/)
