@@ -2,7 +2,7 @@
 
 ### 📊 Project description
 
- This project is part of the [**Data Analytics Accelarator Bootcamp**](https://www.datacareerjumpstart.com/) by [**Avery Simth**](https://www.linkedin.com/in/averyjsmith/).
+ This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Simth](https://www.linkedin.com/in/averyjsmith/).
 
 #### About IDA (International Development Association)
 
@@ -11,9 +11,22 @@ The International Development Association (IDA) credits are public and publicly 
 ### The Data
 
 - Nº Rows: 1.12 million
-- Each row is a **Credit or Grant**
+- Each row is a **Credit or Grant** at a specific time (month and year).
 - Nº columns: 30
-<img src="images/projects/world_bank/data.PNG?raw=true">
+
+The main coumns used in this project are:
+- End of Period;
+- Credit Number;
+- Country;
+- Credit Status;
+- Project Name;
+- **Disbursed Amount**;
+- **Repaid to IDA**;
+- **Due to IDA**
+
+👉 Visit this [link](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) for more information about the dataset.
+
+
 
 
 * Connecting to Data
