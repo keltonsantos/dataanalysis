@@ -13,6 +13,7 @@ In this project I will analyze the loans and credit of IDA-World Bank Program, a
 
 [<img src="projects/images/projects/world_bank/Dashboard.png?raw=true">](projects/worldbank_project.md)
 
+
 - - -
 
 ### [Massachusetts Schools Project - Tableau](projects/tableau_project.md)
