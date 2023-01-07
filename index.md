@@ -21,7 +21,7 @@
 [<img src="images/projects/world_bank/home.PNG?raw=true">](projects/worldbank_project.md)
 
 ### [IDA (World Bank) Statement of Credit and Grants - Cape Verde](projects/worldbank_project.md)
-### [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/worldbank_project.html) [![Markdown](https://img.shields.io/badge/.md-Open_Notebook-bluevilet)](projects/worldbank_project.md)
+### [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/worldbank_project.html) [![Markdown](https://img.shields.io/badge/.md-Open_Project-bluevilet)](projects/worldbank_project.md)
 
 
 Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>
