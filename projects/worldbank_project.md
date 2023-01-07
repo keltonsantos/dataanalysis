@@ -85,7 +85,27 @@ As of November 2022, Cape Verde owed 458 Million USD to the World bank.
 
 <img src="images/projects/world_bank/cv_debt.png?raw=true">
 
-Cape Verde also repays to IDA every year, as we cans see in the chart below:
+Cape Verde also repays to IDA every year, as we can see in the chart below:
 
 <img src="images/projects/world_bank/Stock_Repayment.png?raw=true">
+
+### 4\. What are the Top 10 Cape Verde Projects by amount disbursed?
+
+After plotting a bubble chart, we can see that the top projects, by amount disbursed are:
+
+- Cabo Verde - Transport Sector Reform
+- Cabo Verde DPO
+- Cabo Verde DPF FY22
+- (...)
+
+<img src="images/projects/world_bank/Projects.png?raw=true">
+
+## ✏️ Conclusion
+
+- The Top Five countries with the most amount due to IDA are, **India**, **Bangladesh**, **Pakistan**, **Nigeria** and **Vietnam**
+- As of Nov 2022, Cape Verde owed about 458 Million USD to IDA.
+- The stock of repayment Cape Verde made to IDA was 96.6 Million USD as of Nov2022.
+
+
+
 Thank you for reading, if you have any feedback feel free to conect with on [LinkdIn](https://www.linkedin.com/in/kelton-garcia-santos-a75060b3/)
