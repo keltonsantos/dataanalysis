@@ -10,15 +10,15 @@
 
 - - -
 
-### [Massachusetts Schools Project - Tableau](/tableau_project.md)
+### [Massachusetts Schools Project - Tableau](projects/tableau_project.md)
 
 [<img src="images/projects/Mass_tableau/school.PNG?raw=true">](/tableau_project.md)
 
 - - -
 
-### [IDA/World Bank - Loans to Cape Verde Project with SQL + Tableau](/worldbank_project.md)
+### [IDA/World Bank - Loans to Cape Verde Project with SQL + Tableau](projects/worldbank_project.md)
 
-[<img src="images/projects/world_bank/home.PNG?raw=true">](/worldbank_project.md)
+[<img src="images/projects/world_bank/home.PNG?raw=true">](projects/worldbank_project.md)
 
 ### [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/worldbank_project.html)
 Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>
