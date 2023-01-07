@@ -8,13 +8,16 @@
 
 The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains historical snapshots of the IDA Statement of Credits and Grants including the latest available snapshot. [Source: World Bank](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx)
 
-### The Data
+### 💾 The Data
+The data for this project can be found on the website of [World Bank](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).  We downloaded the CSV file from the website and imported it to SQL and Tableau for analysis.
+
+In this dataset we have the following information 👇
 
 - Nº Rows: 1.12 million
 - Each row is a **Credit or Grant** at a specific time (month and year).
 - Nº columns: 30
 
-The main coumns used in this project are:
+The main columns used in this project are:
 - End of Period;
 - Credit Number;
 - Country;
@@ -24,24 +27,17 @@ The main coumns used in this project are:
 - **Repaid to IDA**;
 - **Due to IDA**
 
-👉 Visit this [link](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) for more information about the dataset.
+👉 Visit this [link](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) for more information about the dataset and data dictionary.
 
+### 🕵️ The Task 
 
+We will analyze the loans and credit of IDA, and answer the following questions:
 
-
-* Connecting to Data
-* Creating a bar chart
-* Adding color
-* Creating a scatter plot
-* Adding size
-* Adding label
-* Adding tooltip
-* Creating pie chart
-* Creating line chart
-* BAN / KPI / Metric
-* Reference Line
-
-<img src="images/projects/Mass_tableau/tableau_public.PNG?raw=true">
+- Which country has the most debt to IDA?
+- What are the Top 10 debtors of IDA
+- How much did Cape Verde disburse from 2012 to 2022?
+- How much does Cape Verde owe to IDA?
+- What are the Top 10 Cape Verde Projects by amount disbursed?
 
 ## 📈 Analyses
 
