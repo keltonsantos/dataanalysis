@@ -21,7 +21,9 @@ In this project I will analyze the loans and credit of IDA-World Bank Program, a
 
 ### [DoorDash Marketing Project - Excel](https://www.linkedin.com/pulse/doordash-marketing-project-excel-kelton-garcia-santos/)
 
-[<img src="images/projects/Doordash/doordash.jpg?raw=true">](https://www.linkedin.com/pulse/doordash-marketing-project-excel-kelton-garcia-santos/)
+This is a small project about **food delivery services** using excel. We presented a few examples of possible analyses to make with the dataset provided, but there are many other kinds of analyses we can do with this dataset.
+
+[<img src="projects/images/projects/Doordash/dashboard.png?raw=true">](https://www.linkedin.com/pulse/doordash-marketing-project-excel-kelton-garcia-santos/)
 
 - - -
 
