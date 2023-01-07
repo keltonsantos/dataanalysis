@@ -55,18 +55,20 @@ ORDER BY "Total_Due" Desc
 LIMIT 10;
 ```
 
-<img src="images/projects/world_bank/top_10.PNG?raw=true">
+<img src="images/projects/world_bank/top_10.png?raw=true">
 
 India, Bangladesh,and Pakistan are the Top 3 debtors, and all the Top 10 countries are from the Asian and African Continent, as we can see below
 
-<img src="images/projects/world_bank/map.PNG?raw=true">
+<img src="images/projects/world_bank/map.png?raw=true">
 
 ### How much does Cape Verde owe to IDA?
 
 First I filtered the data only for "Cape Verde" and "Cabo Verde" (they are the same country) using the following query:
 
 ``` sql
-SELECT * FROM "IDA_Finance" WHERE "country" = ('Cabo Verde', 'Cape Verde');
+SELECT * 
+FROM "IDA_Finance" 
+WHERE "country" = ('Cabo Verde', 'Cape Verde');
 ```
 
 
