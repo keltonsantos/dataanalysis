@@ -55,11 +55,11 @@ ORDER BY "Total_Due" Desc
 LIMIT 10;
 ```
 
-<img src="md_files/images/projects/world_bank/top_10.png?raw=true">
+<img src="images/projects/world_bank/top_10.png?raw=true">
 
 India, Bangladesh,and Pakistan are the Top 3 debtors, and all the Top 10 countries are from the Asian and African Continent, as we can see below
 
-<img src="md_files/images/projects/world_bank/map.png?raw=true">
+<img src="images/projects/world_bank/map.png?raw=true">
 
 ### How much does Cape Verde owe to IDA?
 
@@ -72,6 +72,6 @@ WHERE "country" = ('Cabo Verde', 'Cape Verde');
 ```
 As of November 2022, Cape Verde owed 458 Million USD to the World bank.
 
-<img src="md_files/images/projects/world_bank/cv_debt.png?raw=true">
+<img src="images/projects/world_bank/cv_debt.png?raw=true">
 
 Thank you for reading, if you have any feedback feel free to conect with on [LinkdIn](https://www.linkedin.com/in/kelton-garcia-santos-a75060b3/)
