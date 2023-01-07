@@ -55,10 +55,11 @@ ORDER BY "Total_Due" Desc
 LIMIT 10;
 ```
 
-India, Bangladesh,and Pakistan are the Top 3 debtors of IDA, as we can see below. The Top 10 countries are from the asian, and African Continent.
-
-
 <img src="images/projects/world_bank/top_10.PNG?raw=true">
+
+India, Bangladesh,and Pakistan are the Top 3 debtors, and all the Top 10 countries are from the Asian and African Continent, as we can see below
+
+<img src="images/projects/world_bank/map.PNG?raw=true">
 
 ### 1\. What schools are struggling he most?
 
