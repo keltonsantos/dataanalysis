@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Ida/World Bank Lending program </title>
+  <title>IDA Lending Program</title>
   <style>
     html {
       line-height: 1.5;
@@ -213,6 +213,7 @@
 </head>
 <body>
 <h1 id="ida-world-bank-statement-of-credit-and-grants---cape-verde">IDA (World Bank) Statement of Credit and Grants - Cape Verde</h1>
+<p><img src="images/projects/world_bank/Dashboard.png?raw=true"></p>
 <h3 id="project-description">📊 Project description</h3>
 <p>This project is part of the <a href="https://www.datacareerjumpstart.com/">Data Analytics Accelarator Bootcamp</a> by <a href="https://www.linkedin.com/in/averyjsmith/">Avery Simth</a>.</p>
 <h4 id="about-ida-international-development-association">About IDA (International Development Association)</h4>
@@ -247,7 +248,8 @@
 </ul>
 <h2 id="analyses">📈 Analyses</h2>
 <p>To analyze our data, we had to use <strong>SQL</strong> because the CSV file had more than 1 million rows, making it very difficult to use Excel.</p>
-<p>To answer the first question (What are the Top 10 debtors of IDA), I executed the following <strong>SQL</strong> query, and used <strong>Tableau</strong> to plot the data:</p>
+<h3 id="what-are-the-top-10-debtors-of-ida">2. What are the Top 10 debtors of IDA?</h3>
+<p>To answer the first question, I executed the following <strong>SQL</strong> query, and used <strong>Tableau</strong> to plot the data:</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">SELECT</span> country, <span class="fu">SUM</span> (<span class="ot">&quot;Due to IDA&quot;</span>) <span class="kw">AS</span> <span class="ot">&quot;Total_Due&quot;</span> </span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">FROM</span> <span class="ot">&quot;IDA_Finance&quot;</span> </span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="kw">WHERE</span> <span class="ot">&quot;End of Period&quot;</span> <span class="op">=</span> <span class="st">&#39;12/31/2021 12:00:00 AM&#39;</span> </span>
@@ -255,15 +257,37 @@
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="kw">ORDER</span> <span class="kw">BY</span> <span class="ot">&quot;Total_Due&quot;</span> <span class="kw">Desc</span></span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="kw">LIMIT</span> <span class="dv">10</span>;</span></code></pre></div>
 <p><img src="images/projects/world_bank/top_10.png?raw=true"></p>
-<p>India, Bangladesh,and Pakistan are the Top 3 debtors, and all the Top 10 countries are from the Asian and African Continent, as we can see below</p>
+<p>As we can see India, Bangladesh,and Pakistan are the Top 3 debtors. The Top 10 countries are from the Asian and African Continent, as we can see below</p>
 <p><img src="images/projects/world_bank/map.png?raw=true"></p>
-<h3 id="how-much-does-cape-verde-owe-to-ida">How much does Cape Verde owe to IDA?</h3>
+<h3 id="how-much-did-cape-verde-disburse-from-2012-to-2022">2. How much did Cape Verde disburse from 2012 to 2022?</h3>
+<p>By ploting the data, of disbursed amount, it’s possible to see a trend in the stock of amout Cape Verde disbursed each year.</p>
+<p><img src="images/projects/world_bank/Stock_Disbursed.png?raw=true"></p>
+<p>Taking a closer look to the individual amount disbursed for year, it’s possible to see that from 2019 to 2021 the amout disbursed were significantly greater than in the previous years. This may be due to face the economic consequence of Covid-19.</p>
+<p><img src="images/projects/world_bank/Disbursment_year.png?raw=true"></p>
+<h3 id="how-much-does-cape-verde-owe-to-ida">3. How much does Cape Verde owe to IDA?</h3>
 <p>First I filtered the data only for “Cape Verde” and “Cabo Verde” (they are the same country) using the following query:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode sql"><code class="sourceCode sql"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">SELECT</span> <span class="op">*</span> </span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="kw">FROM</span> <span class="ot">&quot;IDA_Finance&quot;</span> </span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="kw">WHERE</span> <span class="ot">&quot;country&quot;</span> <span class="op">=</span> (<span class="st">&#39;Cabo Verde&#39;</span>, <span class="st">&#39;Cape Verde&#39;</span>);</span></code></pre></div>
-<p>As of November 2022, Cape Verde owes 458 Million USD to the World bank.</p>
+<p>As of November 2022, Cape Verde owed 458 Million USD to the World bank.</p>
 <p><img src="images/projects/world_bank/cv_debt.png?raw=true"></p>
+<p>Cape Verde also repays to IDA every year, as we can see in the chart below:</p>
+<p><img src="images/projects/world_bank/Stock_Repayment.png?raw=true"></p>
+<h3 id="what-are-the-top-10-cape-verde-projects-by-amount-disbursed">4. What are the Top 10 Cape Verde Projects by amount disbursed?</h3>
+<p>After plotting a bubble chart, we can see that the top projects, by amount disbursed are:</p>
+<ul>
+<li>Cabo Verde - Transport Sector Reform</li>
+<li>Cabo Verde DPO</li>
+<li>Cabo Verde DPF FY22</li>
+<li>(…)</li>
+</ul>
+<p><img src="images/projects/world_bank/Projects.png?raw=true"></p>
+<h2 id="conclusion">✏️ Conclusion</h2>
+<ul>
+<li>The Top Five countries with the most amount due to IDA are, <strong>India</strong>, <strong>Bangladesh</strong>, <strong>Pakistan</strong>, <strong>Nigeria</strong> and <strong>Vietnam</strong></li>
+<li>As of Nov 2022, Cape Verde owed about 458 Million USD to IDA.</li>
+<li>The stock of repayment Cape Verde made to IDA was 96.6 Million USD as of Nov2022.</li>
+</ul>
 <p>Thank you for reading, if you have any feedback feel free to conect with on <a href="https://www.linkedin.com/in/kelton-garcia-santos-a75060b3/">LinkdIn</a></p>
 </body>
 </html>
