@@ -41,6 +41,19 @@ We will analyze the loans and credit of IDA, and answer the following questions:
 
 ## 📈 Analyses
 
+### Part I - SQL
+
+To analyse our data we had to use **SQL**, because the CSV file had more than 1 million rows, making it very difficult to use Excel.
+
+``` sql
+SELECT * FROM "IDA_Finance" WHERE "country" IN ('Cabo Verde', 'Cape Verde');
+```
+
+
+
+
+
+
 We connected our csv file to tableau public to analyze and visualize the data and address the questions to present to the board of the school.
 
 <img src="images/projects/Mass_tableau/data.PNG?raw=true">
