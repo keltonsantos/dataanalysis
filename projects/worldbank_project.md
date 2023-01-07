@@ -44,7 +44,9 @@ We will analyze the loans and credit of IDA, and answer the following questions:
 
 To analyze our data, we had to use **SQL** because the CSV file had more than 1 million rows, making it very difficult to use Excel.
 
-To answer the first question (What are the Top 10 debtors of IDA), I executed the following **SQL** query, and used **Tableau** to plot the data:
+### 2\. What are the Top 10 debtors of IDA?
+
+To answer the first question, I executed the following **SQL** query, and used **Tableau** to plot the data:
 
 ``` sql
 SELECT country, SUM ("Due to IDA") AS "Total_Due" 
@@ -57,11 +59,20 @@ LIMIT 10;
 
 <img src="images/projects/world_bank/top_10.png?raw=true">
 
-India, Bangladesh,and Pakistan are the Top 3 debtors, and all the Top 10 countries are from the Asian and African Continent, as we can see below
+As we can see India, Bangladesh,and Pakistan are the Top 3 debtors. The Top 10 countries are from the Asian and African Continent, as we can see below
 
 <img src="images/projects/world_bank/map.png?raw=true">
 
-### How much does Cape Verde owe to IDA?
+### 2\. How much did Cape Verde disburse from 2012 to 2022?
+By ploting the data, of disbursed amount, it's possible to see a trend in the stock of amout Cape Verde disbursed each year.
+
+<img src="images/projects/world_bank/Stock_Disbursed.png?raw=true">
+
+Taking a closer look to the individual amount disbursed for year, it's possible to see that from 2019 to 2021 the amout disbursed were significantly greater than in the previous years. This may be due to face the economic consequence of Covid-19.
+
+<img src="images/projects/world_bank/Disbursment_year.png?raw=true">
+
+### 3\. How much does Cape Verde owe to IDA?
 
 First I filtered the data only for "Cape Verde" and "Cabo Verde" (they are the same country) using the following query:
 
@@ -74,4 +85,7 @@ As of November 2022, Cape Verde owed 458 Million USD to the World bank.
 
 <img src="images/projects/world_bank/cv_debt.png?raw=true">
 
+Cape Verde also repays to IDA every year, as we cans see in the chart below:
+
+<img src="images/projects/world_bank/Stock_Repayment.png?raw=true">
 Thank you for reading, if you have any feedback feel free to conect with on [LinkdIn](https://www.linkedin.com/in/kelton-garcia-santos-a75060b3/)
