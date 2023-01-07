@@ -1,62 +1,64 @@
-# IDA (World Bank) Statement of Credit and Grants - Cape Verde  
+# IDA (World Bank) Statement of Credit and Grants - Cape Verde
 
 ### 📊 Project description
 
- This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Simth](https://www.linkedin.com/in/averyjsmith/).
+This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Simth](https://www.linkedin.com/in/averyjsmith/).
 
 #### About IDA (International Development Association)
 
 The International Development Association (IDA) credits are public and publicly guaranteed debt extended by the World Bank Group. IDA provides development credits, grants and guarantees to its recipient member countries to help meet their development needs. Credits from IDA are at concessional rates. Data are in U.S. dollars calculated using historical rates. This dataset contains historical snapshots of the IDA Statement of Credits and Grants including the latest available snapshot. [Source: World Bank](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx)
 
 ### 💾 The Data
-The data for this project can be found on the website of [World Bank](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx).  We downloaded the CSV file from the website and imported it to SQL and Tableau for analysis.
+
+The data for this project can be found on the website of [World Bank](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx). We downloaded the CSV file from the website and imported it to SQL and Tableau for analysis.
 
 In this dataset we have the following information 👇
 
-- Nº Rows: 1.12 million
-- Each row is a **Credit or Grant** at a specific time (month and year).
-- Nº columns: 30
+* Nº Rows: 1.12 million
+* Each row is a **Credit or Grant** at a specific time (month and year).
+* Nº columns: 30
 
 The main columns used in this project are:
-- End of Period;
-- Credit Number;
-- Country;
-- Credit Status;
-- Project Name;
-- **Disbursed Amount**;
-- **Repaid to IDA**;
-- **Due to IDA**
+
+* End of Period;
+* Credit Number;
+* Country;
+* Credit Status;
+* Project Name;
+* **Disbursed Amount**;
+* **Repaid to IDA**;
+* **Due to IDA**
 
 👉 Visit this [link](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) for more information about the dataset and data dictionary.
 
-### 🕵️ The Task 
+### 🕵️ The Task
 
 We will analyze the loans and credit of IDA, and answer the following questions:
 
-- Which country has the most debt to IDA?
-- What are the Top 10 debtors of IDA
-- How much did Cape Verde disburse from 2012 to 2022?
-- How much does Cape Verde owe to IDA?
-- What are the Top 10 Cape Verde Projects by amount disbursed?
+* What are the Top 10 debtors of IDA
+* How much did Cape Verde disburse from 2012 to 2022?
+* How much does Cape Verde owe to IDA?
+* What are the Top 10 Cape Verde Projects by amount disbursed?
 
 ## 📈 Analyses
 
-### Part I - SQL
+To analyze our data, we had to use **SQL** because the CSV file had more than 1 million rows, making it very difficult to use Excel.
 
-To analyse our data we had to use **SQL**, because the CSV file had more than 1 million rows, making it very difficult to use Excel.
+To answer the first question (What are the Top 10 debtors of IDA), I executed the following **SQL** query, and used **Tableau** to plot the data:
 
 ``` sql
-SELECT * FROM "IDA_Finance" WHERE "country" IN ('Cabo Verde', 'Cape Verde');
+SELECT country, SUM ("Due to IDA") AS "Total_Due" 
+FROM "IDA_Finance" 
+WHERE "End of Period" = '12/31/2021 12:00:00 AM' 
+GROUP BY "country"
+ORDER BY "Total_Due" Desc
+LIMIT 10;
 ```
 
+India, Bangladesh,and Pakistan are the Top 3 debtors of IDA, as we can see below. The Top 10 countries are from the asian, and African Continent.
 
 
-
-
-
-We connected our csv file to tableau public to analyze and visualize the data and address the questions to present to the board of the school.
-
-<img src="images/projects/Mass_tableau/data.PNG?raw=true">
+<img src="images/projects/world_bank/top_10.PNG?raw=true">
 
 ### 1\. What schools are struggling he most?
 
