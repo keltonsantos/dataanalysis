@@ -16,7 +16,7 @@
 
 - - -
 
-### [IDA/World Bank - Loans to Cape Verde Project with SQL + Tableau](/worldbank_project.md)
+### [IDA/World Bank - Loans to Cape Verde Project with SQL + Tableau](/worldbank_project)
 
 [<img src="images/projects/world_bank/home.PNG?raw=true">](/worldbank_project.md)
 
