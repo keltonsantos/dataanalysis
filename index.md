@@ -20,5 +20,5 @@
 
 [<img src="images/projects/world_bank/home.PNG?raw=true">](/worldbank_project.md)
 
-### [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](vertopal.com_worldbank_project.html)
+### [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/worldbank_project.html)
 Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>
