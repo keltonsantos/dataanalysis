@@ -19,7 +19,7 @@
 ### [IDA/World Bank - Loans to Cape Verde Project with SQL + Tableau](projects/worldbank/md/worldbank_project.md)
 
 [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/worldbank/html/worldbank_project.html) 
-[![Open Project](https://img.shields.io/badge/.md-Open_Project-bluevilet)](projects/worldbank/md/worldbank_project.md)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)projects
 
 [<img src="images/projects/world_bank/home.PNG?raw=true">](projects/worldbank/md/worldbank_project.md)
 
