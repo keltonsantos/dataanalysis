@@ -17,7 +17,7 @@
 - - -
 
 ### [IDA/World Bank - Loans to Cape Verde Project with SQL + Tableau](projects/worldbank/md/worldbank_project.md)
-### [IDA (World Bank) Statement of Credit and Grants - Cape Verde](projects/worldbank/md/worldbank_project.md)
+
 ### [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/worldbank/html/worldbank_project.html) [![Markdown](https://img.shields.io/badge/.md-Open_Project-bluevilet)](projects/worldbank/md/worldbank_project.md)
 
 [<img src="images/projects/world_bank/home.PNG?raw=true">](projects/worldbank/md/worldbank_project.md)
