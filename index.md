@@ -16,9 +16,9 @@
 
 - - -
 
-### [IDA/World Bank - Loans to Cape Verde Project with SQL + Tableau](/worldbank_project)
+### [IDA/World Bank - Loans to Cape Verde Project with SQL + Tableau](/worldbank_project.md)
 
 [<img src="images/projects/world_bank/home.PNG?raw=true">](/worldbank_project.md)
 
-
+### [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](vertopal.com_worldbank_project.html)
 Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>
