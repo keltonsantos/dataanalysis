@@ -21,7 +21,7 @@
 [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/worldbank_project_html.html) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
 
-[<img src="images/projects/world_bank/home.PNG?raw=true">](projects/worldbank_project.md)
+[<img src="images/projects/world_bank/Dashboard.png?raw=true">](projects/worldbank_project.md)
 
 
 
