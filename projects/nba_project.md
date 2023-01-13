@@ -4,7 +4,7 @@
 
 ### 📊 Project description
 
-This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Smith](https://www.linkedin.com/in/averyjsmith/). In this project, I'll pretend I am being interviewed by the NBA team the Utah Jazz for an Entry Data Analyst Role.
+This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Smith](https://www.linkedin.com/in/averyjsmith/). In this project, I'll pretend I am being interviewed by the NBA team The Utah Jazz for an Entry Data Analyst Role.
 
 **Topics covered**:
 
