@@ -22,7 +22,7 @@ In this project I will analyze the loans and credit of IDA-World Bank Program, a
 
 For this Project used **TABLEAU** to analyze education data of the State of Massachusetts to find out what schools are struggling the most?, What are the top math schools in the state?, How does class size affect college admission?
 
-[<img src="projects/images/projects/nba.png?raw=true">](projects/nba_project.md)
+[<img src="projects/images/projects/nba/home.png?raw=true">](projects/nba_project.md)
 
 - - -
 - - -
