@@ -1,4 +1,4 @@
-# NBA season 2021/2022 Case  Study
+# 🏀 NBA season 2021/2022 Case  Study
 
 <img src="images/projects/nba/home.JPG?raw=true">
 
@@ -62,11 +62,14 @@ To analyze our data, we will use **Tableau** for better data visualization.
 Let us create a bubble plot:
 
 
-<img src="images/projects/nba/home.JPG?raw=true">
+<img src="images/projects/nba/Bubble.JPG?raw=true">
 
-As we can see India, Bangladesh,and Pakistan are the Top 3 debtors. The Top 10 countries are from the Asian and African Continent, as we can see below
+As we can see, among all the players, Trae Young was the player with more points (2155) and assists (737) during the 2021-2022 NBA season. Nikola Jokic accumulated the most rebounds (1019). Chirs Paul was the second player with more assists (702) but got less than half of Young's points. 
+
+Tyrese Haliburton was the player with more points (1181), assists (628), and rebounds (311) among the SG-PG (Shooting Guard and Point Guard) position players.
 
 <img src="images/projects/world_bank/map.png?raw=true">
+
 
 ### 2\. How much did Cape Verde disburse from 2012 to 2022?
 By ploting the data, of disbursed amount, it's possible to see a trend in the stock of amout Cape Verde disbursed each year.

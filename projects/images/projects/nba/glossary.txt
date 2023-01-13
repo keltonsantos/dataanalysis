@@ -1,0 +1,931 @@
+Also view explanations by holding mouse over column headers
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+Rk -- Rank
+Pos -- Position
+Age -- Player's age on February 1 of the season
+Tm -- Team
+G -- Games
+GS -- Games Started
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+FG% -- Field Goal Percentage
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+3P% -- 3-Point Field Goal Percentage
+2P -- 2-Point Field Goals
+2PA -- 2-point Field Goal Attempts
+2P% -- 2-Point Field Goal Percentage
+eFG% -- Effective Field Goal Percentage
+This statistic adjusts for the fact that a 3-point field goal is worth one more point than a 2-point field goal.
+FT -- Free Throws
+FTA -- Free Throw Attempts
+FT% -- Free Throw Percentage
+ORB -- Offensive Rebounds
+DRB -- Defensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
