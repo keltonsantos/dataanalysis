@@ -4,7 +4,7 @@
 
 ### 📊 Project description
 
-This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Simth](https://www.linkedin.com/in/averyjsmith/).
+This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Smith](https://www.linkedin.com/in/averyjsmith/).
 
 #### About IDA (International Development Association)
 

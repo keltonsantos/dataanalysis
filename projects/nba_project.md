@@ -4,7 +4,7 @@
 
 ### 📊 Project description
 
-This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Simth](https://www.linkedin.com/in/averyjsmith/). In this project, I'll pretend I am being interviewed by the NBA team the Utah Jazz for an Entry Data Analyst Role.
+This project is part of the [Data Analytics Accelarator Bootcamp](https://www.datacareerjumpstart.com/) by [Avery Smith](https://www.linkedin.com/in/averyjsmith/). In this project, I'll pretend I am being interviewed by the NBA team the Utah Jazz for an Entry Data Analyst Role.
 
 **Topics covered**:
 
@@ -23,7 +23,7 @@ This project is part of the [Data Analytics Accelarator Bootcamp](https://www.da
 
 The data for this project can be found [HERE](https://www.basketball-reference.com/leagues/NBA_2022_totals.html). We downloaded the CSV file from the website and imported it to **Tableau** for analysis.
 
-In this dataset we have the following information 👇
+In this dataset, we have the following information 👇
 
 * Nº Rows: 605
 * Each row is the **statistic of a unique player** in 2021/2022 NBA season.
@@ -49,8 +49,8 @@ The main columns used in this project are:
 We will analyze the data, and answer the following questions:
 
 * How different players did on total points, total assists, and total rebounds?
-* How much did Cape Verde disburse from 2012 to 2022?
-* How much does Cape Verde owe to IDA?
+* What position was the most efficient at shooting 3-pointers for every team?
+* What are the total points scored by each team?
 * What are the Top 10 Cape Verde Projects by amount disbursed?
 
 ## 📈 Analyses
@@ -62,58 +62,56 @@ To analyze our data, we will use **Tableau** for better data visualization.
 Let us create a bubble plot:
 
 
-<img src="images/projects/nba/Bubble.JPG?raw=true">
+<img src="images/projects/nba/Bubble.PNG?raw=true">
 
-As we can see, among all the players, Trae Young was the player with more points (2155) and assists (737) during the 2021-2022 NBA season. Nikola Jokic accumulated the most rebounds (1019). Chirs Paul was the second player with more assists (702) but got less than half of Young's points. 
+As we can see, among all the players, Trae Young was the player with more points (2155) and assists (737) during the 2021-2022 NBA season. Nikola Jokić accumulated the most rebounds (1019). Chirs Paul was the second player with more assists (702) but got less than half of Young's points. 
 
 Tyrese Haliburton was the player with more points (1181), assists (628), and rebounds (311) among the SG-PG (Shooting Guard and Point Guard) position players.
+- - -
 
-<img src="images/projects/world_bank/map.png?raw=true">
+### 2\. What position was the most efficient at shooting 3-pointers for every team?
+
+To answer this question, we will create a table representing the Teams on the y-axis and positions on the x-axis. As shown in the table below, the PF (Power Forward) position of the Sacrament Kings had the best 3-point shooting average (around 50%), followed by the SF (Small Forward) of the Los Angels Clippers (around 47%).
+
+The Center position of the Utah Jazz had the worst successful 3-point average (around 0%).
+
+<img src="images/projects/nba/table.png?raw=true">
+- - -
 
 
-### 2\. How much did Cape Verde disburse from 2012 to 2022?
-By ploting the data, of disbursed amount, it's possible to see a trend in the stock of amout Cape Verde disbursed each year.
+### 3\. What are the total points scored by each team?
 
-<img src="images/projects/world_bank/Stock_Disbursed.png?raw=true">
+By plotting a **bar chart**, it's possible to see that Minnesota was the team with more points scored (9507), while Oklahoma scored less than all the teams (8506).
 
-Taking a closer look to the individual amount disbursed for year, it's possible to see that from 2019 to 2021 the amout disbursed were significantly greater than in the previous years. This may be due to face the economic consequence of Covid-19.
 
-<img src="images/projects/world_bank/Disbursment_year.png?raw=true">
 
-### 3\. How much does Cape Verde owe to IDA?
+<img src="images/projects/nba/stacked_chart.png?raw=true">
+- - -
 
-First I filtered the data only for "Cape Verde" and "Cabo Verde" (they are the same country) using the following query:
+### 4\. What players had more than 350 assists in every position?
 
-``` sql
-SELECT * 
-FROM "IDA_Finance" 
-WHERE "country" = ('Cabo Verde', 'Cape Verde');
-```
-As of November 2022, Cape Verde owed 458 Million USD to the World bank.
+ To accomplish this task, we will create a **tree map chrart** similar to the table in question 2.
 
-<img src="images/projects/world_bank/cv_debt.png?raw=true">
+<img src="images/projects/nba/tree_map.png?raw=true">
 
-Cape Verde also repays to IDA every year, as we can see in the chart below:
+The solution is pretty straightforward, as we can see in the tree map above. The Player with more assists in every position are:
 
-<img src="images/projects/world_bank/Stock_Repayment.png?raw=true">
+- PG (Point Guard) - James Harden
+- SG (Shooting Guard) - Derrick White
+- PF (Power Forward) - Giannis Antetokounmpo
+- C (Center) - Nikola Jokić
+- SF (Small Forward) - Khris Middleton
 
-### 4\. What are the Top 10 Cape Verde Projects by amount disbursed?
-
-After plotting a bubble chart, we can see that the top projects, by amount disbursed are:
-
-- Cabo Verde - Transport Sector Reform
-- Cabo Verde DPO
-- Cabo Verde DPF FY22
-- (...)
-
-<img src="images/projects/world_bank/Projects.png?raw=true">
+We can also notice that for Center position only Nikola Jokić made more than 350 assists, while for Small Forward only Khris Middleton reached 350 assists. No player in the positions of Guard and Forward made more than 350 assists.
+- - -
 
 ## ✏️ Conclusion
 
-- The Top Five countries with the most amount due to IDA are, **India**, **Bangladesh**, **Pakistan**, **Nigeria** and **Vietnam**
-- As of Nov 2022, Cape Verde owed about 458 Million USD to IDA.
-- The stock of repayment Cape Verde made to IDA was 96.6 Million USD as of Nov2022.
+- **Trae Young** was the player with more points (2155) and assists (737) during the 2021-2022 NBA season
+- **Nikola Jokić** accumulated the most rebounds (1019)
+- PF (Power Forward) position of the Sacrament Kings had the best 3-point shooting average (around 50%)
+- Minnesota was the team with more points scored (9507)
 
-
+- - -
 
 Thank you for reading, if you have any feedback feel free to conect with on [LinkdIn](https://www.linkedin.com/in/kelton-garcia-santos-a75060b3/)
