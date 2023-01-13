@@ -1,6 +1,6 @@
 # 🏀 NBA season 2021/2022 Case Study
 
-<img src="images/projects/nba/home.JPG?raw=true">
+<img src="images/projects/nba/home.jpg?raw=true">
 
 ### 📊 Project description
 
@@ -62,7 +62,7 @@ To analyze our data, we will use **Tableau** for better data visualization.
 Let us create a bubble plot:
 
 
-<img src="images/projects/nba/Bubble.PNG?raw=true">
+<img src="images/projects/nba/Bubble.png?raw=true">
 
 As we can see, among all the players, Trae Young was the player with more points (2155) and assists (737) during the 2021-2022 NBA season. Nikola Jokić accumulated the most rebounds (1019). Chirs Paul was the second player with more assists (702) but got less than half of Young's points. 
 
@@ -77,7 +77,7 @@ The Center position of the Utah Jazz had the worst successful 3-point average (a
 
 <img src="images/projects/nba/table.png?raw=true">
 - - -
-
+- - -
 
 ### 3\. What are the total points scored by each team?
 
@@ -87,7 +87,7 @@ By plotting a **bar chart**, it's possible to see that Minnesota was the team wi
 
 <img src="images/projects/nba/stacked_chart.png?raw=true">
 - - -
-
+- - -
 ### 4\. What players had more than 350 assists in every position?
 
  To accomplish this task, we will create a **tree map chrart** similar to the table in question 2.
