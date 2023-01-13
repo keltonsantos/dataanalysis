@@ -21,6 +21,7 @@ In this project I will analyze the loans and credit of IDA-World Bank Program, a
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
 
 - Link to my project on [Tableau Public](https://public.tableau.com/views/NBA_Analysis_16733865248050/Bubble?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 In this project, I’ll pretend I am being interviewed by the NBA team The Utah Jazz for an Entry Data Analyst Role.
 
 [<img src="projects/images/projects/nba/home.png?raw=true">](projects/nba_project.md)
