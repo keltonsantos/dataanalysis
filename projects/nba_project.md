@@ -1,4 +1,4 @@
-# 🏀 NBA season 2021/2022 Case  Study
+# 🏀 NBA season 2021/2022 Case Study
 
 <img src="images/projects/nba/home.JPG?raw=true">
 
