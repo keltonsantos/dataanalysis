@@ -15,17 +15,28 @@ In this project I will analyze the loans and credit of IDA-World Bank Program, a
 
 
 - - -
+- - -
+### [🏀 NBA season 2021/2022 Project](projects/nba_project.md)
+[![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/nba_project_html.html) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
+
+For this Project used **TABLEAU** to analyze education data of the State of Massachusetts to find out what schools are struggling the most?, What are the top math schools in the state?, How does class size affect college admission?
+
+[<img src="projects/images/projects/nba.PNG?raw=true">](projects/nba_project.md)
+
+- - -
+- - -
 
 ### [Massachusetts Schools Project - Tableau](projects/tableau_project.md)
 [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/tableau_project_html.html) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
 
-For this Project used **TABLEAU** to analyze education data of the State of Massachusetts to find out What schools are struggling the most?, What are the top math schools in the state?, How does class size affect college admission?
+For this Project used **TABLEAU** to analyze education data of the State of Massachusetts to find out what schools are struggling the most?, What are the top math schools in the state?, How does class size affect college admission?
 
 [<img src="projects/images/projects/Mass_tableau/dashboard.PNG?raw=true">](projects/tableau_project.md)
 
 - - -
-
+- - -
 ### [DoorDash Marketing Project - Excel](https://www.linkedin.com/pulse/doordash-marketing-project-excel-kelton-garcia-santos/)
 
 This is a small project about **food delivery services** using excel. We presented a few examples of possible analyses to make with the dataset provided, but there are many other kinds of analyses we can do with this dataset.
