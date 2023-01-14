@@ -16,7 +16,7 @@ In this project I will analyze the loans and credit of IDA-World Bank Program, a
 
 - - -
 - - -
-### [🏀 NBA Season 2021/2022 Project](projects/nba_project.md)
+### Click 👉 [🏀 NBA Season 2021/2022 Project](projects/nba_project.md)
 [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/nba_project_html.html) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
 
@@ -28,7 +28,7 @@ In this project, I’ll pretend I am being interviewed by the NBA team The Utah 
 
 - - -
 - - -
-### [🏭 The Engineering Project with Python](https://deepnote.com/workspace/data-analystics-accelerator-85463ddf-4baf-44aa-b9b2-96713a39ac25/project/Mining-Project-7983f6fd-8b68-4392-811b-e4f6145de140/notebook/Notebook%201-fdcf22d20e2742b3bedb51ec60f8677d)
+### Click 👉 [🏭 The Engineering Project with Python](https://deepnote.com/workspace/data-analystics-accelerator-85463ddf-4baf-44aa-b9b2-96713a39ac25/project/Mining-Project-7983f6fd-8b68-4392-811b-e4f6145de140/notebook/Notebook%201-fdcf22d20e2742b3bedb51ec60f8677d)
 [![Open Project](https://img.shields.io/badge/DeepNote-View_on_DeepNote-yellowgreen](https://deepnote.com/workspace/data-analystics-accelerator-85463ddf-4baf-44aa-b9b2-96713a39ac25/project/Mining-Project-7983f6fd-8b68-4392-811b-e4f6145de140/notebook/Notebook%201-fdcf22d20e2742b3bedb51ec60f8677d) 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
@@ -40,7 +40,7 @@ In this project, I'll pretend I've been recently hired as a data analyst for a m
 
 - - -
 - - -
-### [Massachusetts Schools Project - Tableau](projects/tableau_project.md)
+### Click 👉 [Massachusetts Schools Project - Tableau](projects/tableau_project.md)
 [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/tableau_project_html.html) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
 
@@ -50,7 +50,7 @@ For this Project used **TABLEAU** to analyze education data of the State of Mass
 
 - - -
 - - -
-### [DoorDash Marketing Project - Excel](https://www.linkedin.com/pulse/doordash-marketing-project-excel-kelton-garcia-santos/)
+### Click 👉 [DoorDash Marketing Project - Excel](https://www.linkedin.com/pulse/doordash-marketing-project-excel-kelton-garcia-santos/)
 
 This is a small project about **food delivery services** using excel. We presented a few examples of possible analyses to make with the dataset provided, but there are many other kinds of analyses we can do with this dataset.
 
