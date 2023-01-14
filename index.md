@@ -28,7 +28,17 @@ In this project, I’ll pretend I am being interviewed by the NBA team The Utah 
 
 - - -
 - - -
+### [🏭 The Engineering Project with Python](https://deepnote.com/workspace/data-analystics-accelerator-85463ddf-4baf-44aa-b9b2-96713a39ac25/project/Mining-Project-7983f6fd-8b68-4392-811b-e4f6145de140/notebook/Notebook%201-fdcf22d20e2742b3bedb51ec60f8677d)
+[![Open Project](https://img.shields.io/badge/<DeepNote>-<View on DeepNote>-<yellowgreen>](https://deepnote.com/workspace/data-analystics-accelerator-85463ddf-4baf-44aa-b9b2-96713a39ac25/project/Mining-Project-7983f6fd-8b68-4392-811b-e4f6145de140/notebook/Notebook%201-fdcf22d20e2742b3bedb51ec60f8677d) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
 
+
+n this project, I'll pretend I've been recently hired as a data analyst for a manufacturing/engineering /science company. More specifically, I've been hired as a data analyst for a mining company called Metals R' Us & I've been given data from their flotation plant.
+
+[<img src="projects/images/projects/python_project/home.png?raw=true">](https://deepnote.com/workspace/data-analystics-accelerator-85463ddf-4baf-44aa-b9b2-96713a39ac25/project/Mining-Project-7983f6fd-8b68-4392-811b-e4f6145de140/notebook/Notebook%201-fdcf22d20e2742b3bedb51ec60f8677d)
+
+- - -
+- - -
 ### [Massachusetts Schools Project - Tableau](projects/tableau_project.md)
 [![Open Project](https://img.shields.io/badge/Jupyter-Open_Project-blue?logo=Jupyter)](projects/tableau_project_html.html) 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/keltonsantos/dataanalysis/tree/master/)
