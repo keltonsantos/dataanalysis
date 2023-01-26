@@ -53,6 +53,14 @@ For this Project used **TABLEAU** to analyze education data of the State of Mass
 This is a small project about **food delivery services** using excel. We presented a few examples of possible analyses to make with the dataset provided, but there are many other kinds of analyses we can do with this dataset.
 
 [<img src="projects/images/projects/Doordash/dashboard.png?raw=true">](https://www.linkedin.com/pulse/doordash-marketing-project-excel-kelton-garcia-santos/)
+- - -
+- - -
+### Click 👉 [Covid-19 Cases vs Bitcoin Prices - Flourish](https://sites.google.com/view/keltondataanalysis/covid-bitcoin-page?authuser=0)
+
+In this project, I used data of Covid-19 daily cases (source: [WHO](https://www.google.com/url?q=https%3A%2F%2Fcovid19.who.int%2Fdata&sa=D&sntz=1&usg=AOvVaw1RrXlmz8NrnI8GtueTEitA)), and Bitcoin daily prices (Source: [Yahoo Finance](https://www.google.com/url?q=https%3A%2F%2Ffinance.yahoo.com%2Fquote%2FBTC-USD%2F&sa=D&sntz=1&usg=AOvVaw1RMqbYjPSe9GTY9tH2SvZx)) from Jan/2020 to Sep/2022 to build a Line Chart Race using [Flourish](https://www.google.com/url?q=https%3A%2F%2Fflourish.studio%2F&sa=D&sntz=1&usg=AOvVaw2I1V8Ox27azIVWMkbK3bq7).
+Credits: [Data Career Jumpstart](https://www.google.com/url?q=https%3A%2F%2Fwww.datacareerjumpstart.com%2F&sa=D&sntz=1&usg=AOvVaw27gpCWa9Ww6-bAOcpxBDbU) by [Avery Smith](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faveryjsmith%2F&sa=D&sntz=1&usg=AOvVaw1QCazZHqYYdo67Mt2lEs03)
+
+[<img src="projects/images/projects/bitcoin/covid_bitcoin.PNG?raw=true">](https://sites.google.com/view/keltondataanalysis/covid-bitcoin-page?authuser=0)
 
 
 - - -
