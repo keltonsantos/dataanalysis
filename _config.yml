@@ -3,7 +3,7 @@ title: > # the title goes here
   Kelton Santos 
   </p>  
 
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?size=20%" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">
   <a href="https://www.linkedin.com/in/kelton-garcia-santos-a75060b3/">LinkedIn</a> |
